@@ -17,12 +17,16 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 .melon {
   background-color: #e97065;
   font-family: "Open Sans", sans-serif;
 }
 
-.melon h1 {
+.melon h2 {
   font-family: 'Rammetto One', cursive;
 }
 
@@ -31,7 +35,7 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 
-.star h1 {
+.star h2 {
   font-family: "Gravitas One";
 }
 
@@ -40,6 +44,6 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 
-.per h1 {
+.per h2 {
   font-family: "Open Sans", sans-serif;
 }
