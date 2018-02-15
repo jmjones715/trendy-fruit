@@ -19,11 +19,12 @@ html {
 
 body {
   margin: 0;
+  font-family: "Open Sans", sans-serif;
+
 }
 
 .melon {
   background-color: #e97065;
-  font-family: "Comfortaa", cursive;
 }
 
 .melon h2 {
@@ -32,7 +33,6 @@ body {
 
 .star {
   background-color: #fbd25e;
-  font-family: "Comfortaa", cursive;
 }
 
 .star h2 {
@@ -41,9 +41,8 @@ body {
 
 .per {
   background-color: #e86033;
-  font-family: "Comfortaa", cursive;
 }
 
 .per h2 {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Comfortaa", cursive;
 }
