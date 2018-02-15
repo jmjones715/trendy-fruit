@@ -20,7 +20,6 @@ html {
 body {
   margin: 0;
   font-family: "Open Sans", sans-serif;
-
 }
 
 .melon {
@@ -28,7 +27,7 @@ body {
 }
 
 .melon h2 {
-  font-family: "Rammetto One", cursive;
+  font-family: "Rammetto One";
 }
 
 .star {
@@ -44,5 +43,5 @@ body {
 }
 
 .per h2 {
-  font-family: "Comfortaa", cursive;
+  font-family: "Comfortaa";
 }
