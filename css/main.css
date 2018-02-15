@@ -16,3 +16,30 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.melon {
+  background-color: #e97065;
+  font-family: "Open Sans", sans-serif;
+}
+
+.melon h1 {
+  font-family: 'Rammetto One', cursive;
+}
+
+.star {
+  background-color: #fbd25e;
+  font-family: "Open Sans", sans-serif;
+}
+
+.star h1 {
+  font-family: "Gravitas One";
+}
+
+.per {
+  background-color: #e86033;
+  font-family: "Open Sans", sans-serif;
+}
+
+.per h1 {
+  font-family: "Open Sans", sans-serif;
+}
